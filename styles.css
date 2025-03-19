@@ -31,8 +31,7 @@ header::before{
 }
 
 .logo{
-    margin-top: 16px;
-    margin-left: 20px;
+    
     height: 18vh;
     cursor: pointer;
 }
